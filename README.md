@@ -16,10 +16,11 @@
 ### Will be trying to build and iOS app that will pull recepies
 
 ## Functionality
-1.  For now just have a recepie uploading where you can put pictures of meals and rate them
+1.  For now just have a recepie uploading where you can put pictures of meals 
+2. Rating your meals to see if you like it or not
 
 ## Stretch functionality for expensions
-- A list view of all foods
+- A list view of all foods (Will go back and at least do this for sure)
 - Build calories counting for recepies
 - Builds grocery list off of selected recepies of the week
 - Being able to remove recpieces with foods you dislike or are allergic too
@@ -28,6 +29,7 @@
 ##What I learned
 - Apple has a lot of cool tools that are avaliable in the object library
 - Xcode has alot of moving parts and the initial learning curve is really high
+- Xocides structure, the difference between building in xcode simulator then getting it on your phone
 
 
 ##What didn’t work
